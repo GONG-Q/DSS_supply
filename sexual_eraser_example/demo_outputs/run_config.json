@@ -4,7 +4,7 @@
   "num_inference_steps": 50,
   "feature_steps": 15,
   "feature_samples": 3,
-  "lambda_text": 0.2,
+  "lambda_text": 0.5,
   "lambda_layer": 1.0,
   "height": 512,
   "width": 512,
