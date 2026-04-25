@@ -1,0 +1,12 @@
+sd:
+  model_path: "SD_MODEL_PATH"
+  dtype: "float16"
+  scheduler: "DPMSolverMultistepScheduler"
+  enable_attention_slicing: true
+  safety_checker: false
+
+generation:
+  num_inference_steps: 50
+  guidance_scale: 7.5
+  height: 512
+  width: 512

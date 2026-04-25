@@ -1,0 +1,23 @@
+
+ssbm
+  pca_variance_ratio 0.95  
+  kde_bandwidth 0.5    
+  gradient_step_size 0.1   
+  top_k_anchors 5         
+  
+ssg
+  lambda_balance 0.2    
+  epsilon 1e-6             
+  normal_prompts_num 100  
+  sensitive_prompts_num 100
+  target_layers          
+    - mid_block_attn_0
+    - up_block_0_attn_0
+    - up_block_1_attn_0
+    - up_block_2_attn_0
+
+# General parameters
+general
+  device cuda
+  seed 42
+  num_samples 2      
