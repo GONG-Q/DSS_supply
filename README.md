@@ -6,7 +6,7 @@ This directory is organized as an anonymized artifact package for inspection, mi
 
 - Minimal runnable entry: `run_minimal.sh`
 - Optional larger batch entry: `run_full.sh`
-- Minimal notebook entry: `sexual_eraser_example/effective_erae_nudity_demo.ipynb`
+- Minimal notebook entry: `effective_erae_nudity_demo.ipynb`
 - Minimal script entry: `sexual_eraser_example/effective_erae_nudity.py`
 - Environment specification: `environment.yml`
 - Open-science materials: `OpenScience_Checklist.md`, `LICENSE`
@@ -36,7 +36,7 @@ This directory is organized as an anonymized artifact package for inspection, mi
 The minimal verification unit is centered on:
 
 - `sexual_eraser_example/effective_erae_nudity.py`
-- `sexual_eraser_example/effective_erae_nudity_demo.ipynb`
+- `effective_erae_nudity_demo.ipynb`
 
 Its design goals are:
 
