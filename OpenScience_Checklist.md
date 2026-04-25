@@ -29,7 +29,6 @@ This checklist is prepared for artifact packaging, review, and camera-ready open
 
 - High-level artifact instructions are documented in `README.md`.
 - A paper-to-artifact mapping table is included in `README.md`.
-- A paper appendix draft is included in `OpenScience_Appendix.md`.
 
 ## Anonymity And Safety
 
