@@ -9,7 +9,7 @@ This directory is organized as an anonymized artifact package for inspection, mi
 - Minimal notebook entry: `sexual_eraser_example/effective_erae_nudity_demo.ipynb`
 - Minimal script entry: `sexual_eraser_example/effective_erae_nudity.py`
 - Environment specification: `environment.yml`
-- Open-science materials: `OpenScience_Checklist.md`, `OpenScience_Appendix.md`, `LICENSE`
+- Open-science materials: `OpenScience_Checklist.md`, `LICENSE`
 
 ## Recommended Reviewer Workflow
 
@@ -26,7 +26,6 @@ This directory is organized as an anonymized artifact package for inspection, mi
 - `Erasure_Results/`: representative visualization results for several concept-erasure settings
 - `sexual_eraser_example/`: minimal runnable example, notebook, prompt file, caches, logs, and provided outputs
 - `OpenScience_Checklist.md`: artifact and disclosure checklist
-- `OpenScience_Appendix.md`: paper-ready appendix draft
 - `LICENSE`: artifact license
 - `environment.yml`: environment specification
 - `run_minimal.sh`: smallest end-to-end command
@@ -73,7 +72,7 @@ Key provided files in that directory include:
 | The artifact exposes intermediate statistics for inspection. | `sexual_eraser_example/demo_outputs/stats/*.npy`, `run_config.json` |
 | Qualitative examples are included for manual inspection. | `sexual_eraser_example/intervened_provided_cases/`, `Erasure_Results/` |
 | The software environment and launch procedure are documented. | `environment.yml`, `run_minimal.sh`, `run_full.sh`, `OpenScience_Checklist.md` |
-| The package is prepared for open-science disclosure and double-blind review. | `OpenScience_Checklist.md`, `OpenScience_Appendix.md`, sanitized paths in the minimal example |
+| The package is prepared for open-science disclosure and double-blind review. | `OpenScience_Checklist.md`, sanitized paths in the minimal example |
 
 ## Quick Start
 
@@ -154,7 +153,5 @@ This artifact is prepared for double-blind review:
 The package includes:
 
 - `OpenScience_Checklist.md`
-- `OpenScience_Appendix.md`
 - `LICENSE`
 
-These files are intended to support artifact evaluation, paper appendix drafting, and later camera-ready release preparation.
