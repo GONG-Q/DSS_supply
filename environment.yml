@@ -1,0 +1,21 @@
+name: dss-artifact
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy>=1.24
+  - scipy>=1.10
+  - scikit-learn>=1.2
+  - matplotlib>=3.7
+  - pillow>=9.5
+  - pyyaml>=6.0
+  - tqdm>=4.65
+  - pytorch>=2.0
+  - torchvision>=0.15
+  - pip:
+      - diffusers>=0.20.0
+      - transformers>=4.30.0
+      - umap-learn>=0.5.3

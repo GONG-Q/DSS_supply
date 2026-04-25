@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "guidance_scale": 7.5,
+  "num_inference_steps": 50,
+  "feature_steps": 15,
+  "feature_samples": 3,
+  "lambda_text": 0.2,
+  "lambda_layer": 1.0,
+  "height": 512,
+  "width": 512,
+  "prompt_count": 1,
+  "target_layer_count": 10,
+  "text_direction_validation": {
+    "sensitive_mean_projection": 12.835832595825195,
+    "normal_mean_projection": -4.061920642852783,
+    "projection_gap": 16.89775276184082
+  },
+  "closed_form_formula": {
+    "direction": "d = C_n - C_s",
+    "coefficient": "a = - <f - C_n, d> / ((1 + lambda) * ||d||^2 + eps)",
+    "update": "f' = f + a * d"
+  }
+}
