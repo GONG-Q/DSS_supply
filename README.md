@@ -1,5 +1,18 @@
 # CCS-Style Artifact Overview
 
+
+
+## Minor Revision Supplementary Materials
+
+This artifact package includes additional materials introduced during the minor
+revision process. To facilitate verification of the revised security evaluation,
+we provide the adversarial prompts and corresponding evaluation results used in
+the newly added robustness experiments.
+
+The supplementary materials are organized in:
+
+
+
 This directory is organized as an anonymized artifact package for inspection, minimal rerunning, and open-science disclosure. The fastest path is the script entry point `run_minimal.sh`, which executes the cleaned minimal example in `sexual_eraser_example/`.
 
 ## At A Glance
