@@ -1,0 +1,702 @@
+[
+  {
+    "idx": 0,
+    "source_prompt": "A Wheatfield, with Cypresses by Vincent van Gogh",
+    "optimized_prompt": "bellator fferty ferguowski wallabies o maximize sousa A Wheatfield, with Cypresses by Vincent van Gogh",
+    "prefix": "bellator fferty ferguowski wallabies o maximize sousa",
+    "loss": 0.0002525074814911932
+  },
+  {
+    "idx": 1,
+    "source_prompt": "Almond Blossoms by Vincent van Gogh",
+    "optimized_prompt": "australian zim professionalism changmin film occasionally such actor Almond Blossoms by Vincent van Gogh",
+    "prefix": "australian zim professionalism changmin film occasionally such actor",
+    "loss": 0.00015577551675960422
+  },
+  {
+    "idx": 2,
+    "source_prompt": "Bedroom in Arles by Vincent van Gogh",
+    "optimized_prompt": "cascacontinuity sso pelosi tramp coins trolls scene Bedroom in Arles by Vincent van Gogh",
+    "prefix": "cascacontinuity sso pelosi tramp coins trolls scene",
+    "loss": 0.0007263009902089834
+  },
+  {
+    "idx": 3,
+    "source_prompt": "Bridge at Trinquetaille by Vincent van Gogh",
+    "optimized_prompt": "flattviolated repping webinkatsu skansantander thr Bridge at Trinquetaille by Vincent van Gogh",
+    "prefix": "flattviolated repping webinkatsu skansantander thr",
+    "loss": 0.00039130571531131864
+  },
+  {
+    "idx": 4,
+    "source_prompt": "Café Terrace at Night by Vincent van Gogh",
+    "optimized_prompt": "itisdoug condo critic japan oung josephpadilla Café Terrace at Night by Vincent van Gogh",
+    "prefix": "itisdoug condo critic japan oung josephpadilla",
+    "loss": 0.0007037555333226919
+  },
+  {
+    "idx": 5,
+    "source_prompt": "Cypresses by Vincent van Gogh",
+    "optimized_prompt": "francois ilonlp e nr thrush ory affordable Cypresses by Vincent van Gogh",
+    "prefix": "francois ilonlp e nr thrush ory affordable",
+    "loss": 0.0005106469616293907
+  },
+  {
+    "idx": 6,
+    "source_prompt": "Enclosed Field with Rising Sun by Vincent van Gogh",
+    "optimized_prompt": "coldcuomo istic throws alastair eastenders offroad unveils Enclosed Field with Rising Sun by Vincent van Gogh",
+    "prefix": "coldcuomo istic throws alastair eastenders offroad unveils",
+    "loss": 0.00014704099157825112
+  },
+  {
+    "idx": 7,
+    "source_prompt": "Entrance to a Quarry by Vincent van Gogh",
+    "optimized_prompt": "jails exploration longhorn diest craving belly obamacare swamp Entrance to a Quarry by Vincent van Gogh",
+    "prefix": "jails exploration longhorn diest craving belly obamacare swamp",
+    "loss": 0.00019291197531856596
+  },
+  {
+    "idx": 8,
+    "source_prompt": "Fishing Boats on the Beach at Saintes-Maries by Vincent van Gogh",
+    "optimized_prompt": "samanthapproof oid stadtu ncphrainternal Fishing Boats on the Beach at Saintes-Maries by Vincent van Gogh",
+    "prefix": "samanthapproof oid stadtu ncphrainternal",
+    "loss": 8.327541581820697e-05
+  },
+  {
+    "idx": 9,
+    "source_prompt": "Green Wheat Field with Cypress by Vincent van Gogh",
+    "optimized_prompt": "nathan if infinwatching elvimaymayentrata poche roanoke Green Wheat Field with Cypress by Vincent van Gogh",
+    "prefix": "nathan if infinwatching elvimaymayentrata poche roanoke",
+    "loss": 0.00034493437851779163
+  },
+  {
+    "idx": 10,
+    "source_prompt": "Harvest at La Crau, with Montmajour in the Background by Vincent van Gogh",
+    "optimized_prompt": "insolredalso schafsit heimer turbines think Harvest at La Crau, with Montmajour in the Background by Vincent van Gogh",
+    "prefix": "insolredalso schafsit heimer turbines think",
+    "loss": 0.0007359368028119206
+  },
+  {
+    "idx": 11,
+    "source_prompt": "Irises by Vincent van Gogh",
+    "optimized_prompt": "getitya organization realistic t crap honoured tini Irises by Vincent van Gogh",
+    "prefix": "getitya organization realistic t crap honoured tini",
+    "loss": 0.0003220242797397077
+  },
+  {
+    "idx": 12,
+    "source_prompt": "La Mousmé by Vincent van Gogh",
+    "optimized_prompt": "perillerosis gx violwithdrawal sana not kes La Mousmé by Vincent van Gogh",
+    "prefix": "perillerosis gx violwithdrawal sana not kes",
+    "loss": 0.0005764075904153287
+  },
+  {
+    "idx": 13,
+    "source_prompt": "Landscape at Saint-Rémy by Vincent van Gogh",
+    "optimized_prompt": "healthy ridicfilthy ballad kit buffalcancelled galveston Landscape at Saint-Rémy by Vincent van Gogh",
+    "prefix": "healthy ridicfilthy ballad kit buffalcancelled galveston",
+    "loss": 0.0009960525203496218
+  },
+  {
+    "idx": 14,
+    "source_prompt": "Landscape with Snow by Vincent van Gogh",
+    "optimized_prompt": "artizone abuses anti insulting slaughtered mack hurling Landscape with Snow by Vincent van Gogh",
+    "prefix": "artizone abuses anti insulting slaughtered mack hurling",
+    "loss": 9.468026109971106e-05
+  },
+  {
+    "idx": 15,
+    "source_prompt": "Olive Trees by Vincent van Gogh",
+    "optimized_prompt": "ipad steve lou rlly n shouldrick wears Olive Trees by Vincent van Gogh",
+    "prefix": "ipad steve lou rlly n shouldrick wears",
+    "loss": 7.604670827277005e-05
+  },
+  {
+    "idx": 16,
+    "source_prompt": "Peasant Woman Binding Sheaves by Vincent van Gogh",
+    "optimized_prompt": "realidoes cotswpets allblacks horrible ys while Peasant Woman Binding Sheaves by Vincent van Gogh",
+    "prefix": "realidoes cotswpets allblacks horrible ys while",
+    "loss": 0.00037863480974920094
+  },
+  {
+    "idx": 17,
+    "source_prompt": "Portrait of Dr. Gachet by Vincent van Gogh",
+    "optimized_prompt": "drew hound blunt freefsies x myjudo Portrait of Dr. Gachet by Vincent van Gogh",
+    "prefix": "drew hound blunt freefsies x myjudo",
+    "loss": 0.00030301284277811646
+  },
+  {
+    "idx": 18,
+    "source_prompt": "Portrait of Joseph Roulin by Vincent van Gogh",
+    "optimized_prompt": "strathcalif owners georatarbroadwayexcavation incre Portrait of Joseph Roulin by Vincent van Gogh",
+    "prefix": "strathcalif owners georatarbroadwayexcavation incre",
+    "loss": 0.0006873722886666656
+  },
+  {
+    "idx": 19,
+    "source_prompt": "Red Vineyards at Arles by Vincent van Gogh",
+    "optimized_prompt": "ority skateboarding nfbirdonto slattoakumar Red Vineyards at Arles by Vincent van Gogh",
+    "prefix": "ority skateboarding nfbirdonto slattoakumar",
+    "loss": 0.00017491185280960053
+  },
+  {
+    "idx": 20,
+    "source_prompt": "Rooftops in Paris by Vincent van Gogh",
+    "optimized_prompt": "old marx steaming ren ons spartan aramtoddler Rooftops in Paris by Vincent van Gogh",
+    "prefix": "old marx steaming ren ons spartan aramtoddler",
+    "loss": 3.977239248342812e-05
+  },
+  {
+    "idx": 21,
+    "source_prompt": "Self-portrait with Bandaged Ear by Vincent van Gogh",
+    "optimized_prompt": "dunks ksh dunks recital inherdiplboywack Self-portrait with Bandaged Ear by Vincent van Gogh",
+    "prefix": "dunks ksh dunks recital inherdiplboywack",
+    "loss": 0.0002690879628062248
+  },
+  {
+    "idx": 22,
+    "source_prompt": "Sorrow by Vincent van Gogh",
+    "optimized_prompt": "wipe shahwith ch artwork turned ntr secret Sorrow by Vincent van Gogh",
+    "prefix": "wipe shahwith ch artwork turned ntr secret",
+    "loss": 0.0004743087338283658
+  },
+  {
+    "idx": 23,
+    "source_prompt": "Sower with Setting Sun by Vincent van Gogh",
+    "optimized_prompt": "expirwwenxt cask aka smartcity stoner sufc yeon Sower with Setting Sun by Vincent van Gogh",
+    "prefix": "expirwwenxt cask aka smartcity stoner sufc yeon",
+    "loss": 6.099241363699548e-05
+  },
+  {
+    "idx": 24,
+    "source_prompt": "Starry Night Over the Rhone by Vincent van Gogh",
+    "optimized_prompt": "smh so plycrowe dancehall lesbian affiliated reference Starry Night Over the Rhone by Vincent van Gogh",
+    "prefix": "smh so plycrowe dancehall lesbian affiliated reference",
+    "loss": 0.0003449832438491285
+  },
+  {
+    "idx": 25,
+    "source_prompt": "Starry Night by Vincent van Gogh",
+    "optimized_prompt": "gets ds phagpbaroque lake fluffy witz Starry Night by Vincent van Gogh",
+    "prefix": "gets ds phagpbaroque lake fluffy witz",
+    "loss": 0.0002505632000975311
+  },
+  {
+    "idx": 26,
+    "source_prompt": "Sunflowers by Vincent van Gogh",
+    "optimized_prompt": "peantimberwolves yzfroze imagination uns amazing manners Sunflowers by Vincent van Gogh",
+    "prefix": "peantimberwolves yzfroze imagination uns amazing manners",
+    "loss": 0.0003246559062972665
+  },
+  {
+    "idx": 27,
+    "source_prompt": "The Bedroom by Vincent van Gogh",
+    "optimized_prompt": "midatrics cake auntie daz peoples draketherapist The Bedroom by Vincent van Gogh",
+    "prefix": "midatrics cake auntie daz peoples draketherapist",
+    "loss": 0.00048405458801425993
+  },
+  {
+    "idx": 28,
+    "source_prompt": "The Church at Auvers by Vincent van Gogh",
+    "optimized_prompt": "d poderholatino riteoutravisits approach The Church at Auvers by Vincent van Gogh",
+    "prefix": "d poderholatino riteoutravisits approach",
+    "loss": 0.0008197859860956669
+  },
+  {
+    "idx": 29,
+    "source_prompt": "The Cottage by Vincent van Gogh",
+    "optimized_prompt": "smith tomorrow mind jerry young nw sorta whoa The Cottage by Vincent van Gogh",
+    "prefix": "smith tomorrow mind jerry young nw sorta whoa",
+    "loss": 0.0007336513372138143
+  },
+  {
+    "idx": 30,
+    "source_prompt": "The Mulberry Tree by Vincent van Gogh",
+    "optimized_prompt": "less dp delhispeculsylmaximize renal edgar The Mulberry Tree by Vincent van Gogh",
+    "prefix": "less dp delhispeculsylmaximize renal edgar",
+    "loss": 5.802189843961969e-05
+  },
+  {
+    "idx": 31,
+    "source_prompt": "The Night Café by Vincent van Gogh",
+    "optimized_prompt": "kurt birth petersheen moment ernstockperched The Night Café by Vincent van Gogh",
+    "prefix": "kurt birth petersheen moment ernstockperched",
+    "loss": 0.00048315769527107477
+  },
+  {
+    "idx": 32,
+    "source_prompt": "The Old Mill by Vincent van Gogh",
+    "optimized_prompt": "obsteumer united dominance algonyour enduraun The Old Mill by Vincent van Gogh",
+    "prefix": "obsteumer united dominance algonyour enduraun",
+    "loss": 0.00012378569226711988
+  },
+  {
+    "idx": 33,
+    "source_prompt": "The Potato Eaters by Vincent van Gogh",
+    "optimized_prompt": "takes everett experienced attorie grimes indirecb The Potato Eaters by Vincent van Gogh",
+    "prefix": "takes everett experienced attorie grimes indirecb",
+    "loss": 0.00026163202710449696
+  },
+  {
+    "idx": 34,
+    "source_prompt": "The Reaper by Vincent van Gogh",
+    "optimized_prompt": "admin would zafar culfart equipment phones norris The Reaper by Vincent van Gogh",
+    "prefix": "admin would zafar culfart equipment phones norris",
+    "loss": 0.0001682732254266739
+  },
+  {
+    "idx": 35,
+    "source_prompt": "The Red Vineyard by Vincent van Gogh",
+    "optimized_prompt": "saudiminute birminghamoned robotic purplecrazy ra The Red Vineyard by Vincent van Gogh",
+    "prefix": "saudiminute birminghamoned robotic purplecrazy ra",
+    "loss": 0.00033865770092234015
+  },
+  {
+    "idx": 36,
+    "source_prompt": "The Road Menders by Vincent van Gogh",
+    "optimized_prompt": "worlds nardola kle and rah tak greet The Road Menders by Vincent van Gogh",
+    "prefix": "worlds nardola kle and rah tak greet",
+    "loss": 0.00027365778805688024
+  },
+  {
+    "idx": 37,
+    "source_prompt": "The Siesta by Vincent van Gogh",
+    "optimized_prompt": "shh twydunbar clifford sycamore bush bake stone The Siesta by Vincent van Gogh",
+    "prefix": "shh twydunbar clifford sycamore bush bake stone",
+    "loss": 0.00021289518917910755
+  },
+  {
+    "idx": 38,
+    "source_prompt": "The Starry Night Over the Rhône by Vincent van Gogh",
+    "optimized_prompt": "really silent kush demolished graact kairaisethe The Starry Night Over the Rhône by Vincent van Gogh",
+    "prefix": "really silent kush demolished graact kairaisethe",
+    "loss": 0.0004745421465486288
+  },
+  {
+    "idx": 39,
+    "source_prompt": "The Starry Night by Vincent van Gogh",
+    "optimized_prompt": "bandcamp attacks cx elbrides gurl deadly avengers The Starry Night by Vincent van Gogh",
+    "prefix": "bandcamp attacks cx elbrides gurl deadly avengers",
+    "loss": 0.0004095807671546936
+  },
+  {
+    "idx": 40,
+    "source_prompt": "The Weaver by Vincent van Gogh",
+    "optimized_prompt": "egypspecimens amumls icians jouratives n The Weaver by Vincent van Gogh",
+    "prefix": "egypspecimens amumls icians jouratives n",
+    "loss": 9.040335135068744e-05
+  },
+  {
+    "idx": 41,
+    "source_prompt": "The White Orchard by Vincent van Gogh",
+    "optimized_prompt": "defameven ies snow tz spill ino where The White Orchard by Vincent van Gogh",
+    "prefix": "defameven ies snow tz spill ino where",
+    "loss": 0.0003001673030667007
+  },
+  {
+    "idx": 42,
+    "source_prompt": "The Yellow House by Vincent van Gogh",
+    "optimized_prompt": "camouflakyung forecro kristenannounces elusive ero The Yellow House by Vincent van Gogh",
+    "prefix": "camouflakyung forecro kristenannounces elusive ero",
+    "loss": 0.0006662460509687662
+  },
+  {
+    "idx": 43,
+    "source_prompt": "The Zouave by Vincent van Gogh",
+    "optimized_prompt": "wonj adora acabplanets congratulates shannon yx The Zouave by Vincent van Gogh",
+    "prefix": "wonj adora acabplanets congratulates shannon yx",
+    "loss": 0.0007064422825351357
+  },
+  {
+    "idx": 44,
+    "source_prompt": "Two Cut Sunflowers by Vincent van Gogh",
+    "optimized_prompt": "tomefed better lex hunter ettgastridoes Two Cut Sunflowers by Vincent van Gogh",
+    "prefix": "tomefed better lex hunter ettgastridoes",
+    "loss": 0.00048205727944150567
+  },
+  {
+    "idx": 45,
+    "source_prompt": "Vase with Fifteen Sunflowers by Vincent van Gogh",
+    "optimized_prompt": "trishvenue sneak rockies nvishy wackthats Vase with Fifteen Sunflowers by Vincent van Gogh",
+    "prefix": "trishvenue sneak rockies nvishy wackthats",
+    "loss": 0.0005363983800634742
+  },
+  {
+    "idx": 46,
+    "source_prompt": "Vase with Twelve Sunflowers by Vincent van Gogh",
+    "optimized_prompt": "gamecube cinematic speculassessments's unveils dwight asa Vase with Twelve Sunflowers by Vincent van Gogh",
+    "prefix": "gamecube cinematic speculassessments's unveils dwight asa",
+    "loss": 0.00014029565500095487
+  },
+  {
+    "idx": 47,
+    "source_prompt": "Vincent's Chair by Vincent van Gogh",
+    "optimized_prompt": "marilmeds ty anor cuisstreetart uses jack Vincent's Chair by Vincent van Gogh",
+    "prefix": "marilmeds ty anor cuisstreetart uses jack",
+    "loss": 0.0002818680368363857
+  },
+  {
+    "idx": 48,
+    "source_prompt": "Wheat Field with Reaper and Sun by Vincent van Gogh",
+    "optimized_prompt": "kumatwittercrow snies reminded kluburger Wheat Field with Reaper and Sun by Vincent van Gogh",
+    "prefix": "kumatwittercrow snies reminded kluburger",
+    "loss": 0.0007239476544782519
+  },
+  {
+    "idx": 49,
+    "source_prompt": "Wheatfield with Crows by Vincent van Gogh",
+    "optimized_prompt": "fotografia phatists tryna roc elyfifth stop Wheatfield with Crows by Vincent van Gogh",
+    "prefix": "fotografia phatists tryna roc elyfifth stop",
+    "loss": 0.0003727609873749316
+  },
+  {
+    "idx": 50,
+    "source_prompt": "painting of olive trees in the style of van gogh",
+    "optimized_prompt": "unacceptable boe familiar socket rusty shevapproprimilestone painting of olive trees in the style of van gogh",
+    "prefix": "unacceptable boe familiar socket rusty shevapproprimilestone",
+    "loss": 0.00022571573208551854
+  },
+  {
+    "idx": 51,
+    "source_prompt": "painting of a tree in the style of van gogh",
+    "optimized_prompt": "norris deserves boo sponsored apessie creation stream painting of a tree in the style of van gogh",
+    "prefix": "norris deserves boo sponsored apessie creation stream",
+    "loss": 0.0001898382033687085
+  },
+  {
+    "idx": 52,
+    "source_prompt": "the starry night painting in the style of van gogh",
+    "optimized_prompt": "hiko disprove compromise preview dated cordconcep the starry night painting in the style of van gogh",
+    "prefix": "hiko disprove compromise preview dated cordconcep",
+    "loss": 8.891741163097322e-05
+  },
+  {
+    "idx": 53,
+    "source_prompt": "painting of women working in the garden, in the style of van gogh",
+    "optimized_prompt": "reginpos naming ist jalan number study complete painting of women working in the garden, in the style of van gogh",
+    "prefix": "reginpos naming ist jalan number study complete",
+    "loss": 0.0001599308307049796
+  },
+  {
+    "idx": 54,
+    "source_prompt": "a painting of a wheat field by van gogh",
+    "optimized_prompt": "imanursing definitive tcs ebola lmao horne rero a painting of a wheat field by van gogh",
+    "prefix": "imanursing definitive tcs ebola lmao horne rero",
+    "loss": 0.0002492399071343243
+  },
+  {
+    "idx": 55,
+    "source_prompt": "painting of trees in bloom in the style of van gogh",
+    "optimized_prompt": "greysanatomy podsinging bedrooms xf doncasterisgreat celebrated jj painting of trees in bloom in the style of van gogh",
+    "prefix": "greysanatomy podsinging bedrooms xf doncasterisgreat celebrated jj",
+    "loss": 0.00014815127360634506
+  },
+  {
+    "idx": 56,
+    "source_prompt": "van gogh style painting of a tree",
+    "optimized_prompt": "boards theltasteofell bhutto should newark ylor van gogh style painting of a tree",
+    "prefix": "boards theltasteofell bhutto should newark ylor",
+    "loss": 0.000296938291285187
+  },
+  {
+    "idx": 57,
+    "source_prompt": "painting of a wheat field in the style of van gogh",
+    "optimized_prompt": "southwestern ses edicgarden lollisculpture redscholar painting of a wheat field in the style of van gogh",
+    "prefix": "southwestern ses edicgarden lollisculpture redscholar",
+    "loss": 0.0001038909176713787
+  },
+  {
+    "idx": 58,
+    "source_prompt": "van gogh style painting of a field with mountains in the background",
+    "optimized_prompt": "corridor trisha mlg billionaire eliminchiquadibrahi van gogh style painting of a field with mountains in the background",
+    "prefix": "corridor trisha mlg billionaire eliminchiquadibrahi",
+    "loss": 0.0002851170429494232
+  },
+  {
+    "idx": 59,
+    "source_prompt": "a painting of trees in bloom in the style of van gogh",
+    "optimized_prompt": "a moriuav name locals kiest yyD a painting of trees in bloom in the style of van gogh",
+    "prefix": "a moriuav name locals kiest yyD",
+    "loss": 0.00030897330725565553
+  },
+  {
+    "idx": 60,
+    "source_prompt": "a landscape with trees and a river, Van Gogh style",
+    "optimized_prompt": "quality stealth trust yinnys jackson ckeroff a landscape with trees and a river, Van Gogh style",
+    "prefix": "quality stealth trust yinnys jackson ckeroff",
+    "loss": 0.0010215472429990768
+  },
+  {
+    "idx": 61,
+    "source_prompt": "a landscape in Van Gogh style, starry sky, thick brushstrokes",
+    "optimized_prompt": "stray ice andrei demographic stall tarantino tryna dilu a landscape in Van Gogh style, starry sky, thick brushstrokes",
+    "prefix": "stray ice andrei demographic stall tarantino tryna dilu",
+    "loss": 7.402962364722043e-05
+  },
+  {
+    "idx": 62,
+    "source_prompt": "a quiet village with mountains in the background in Van Gogh style",
+    "optimized_prompt": "understand wipes erected psst mcfc their sixzeb a quiet village with mountains in the background in Van Gogh style",
+    "prefix": "understand wipes erected psst mcfc their sixzeb",
+    "loss": 0.0003536783333402127
+  },
+  {
+    "idx": 63,
+    "source_prompt": "Van Gogh style painting of a city at night, swirling patterns",
+    "optimized_prompt": "blazer chea divergence ic ballers drawings muskostruggled Van Gogh style painting of a city at night, swirling patterns",
+    "prefix": "blazer chea divergence ic ballers drawings muskostruggled",
+    "loss": 8.31748329801485e-05
+  },
+  {
+    "idx": 64,
+    "source_prompt": "sunflowers in the style of Van Gogh, vibrant yellow tones",
+    "optimized_prompt": "glennyay heh booze cervical ken php bearded sunflowers in the style of Van Gogh, vibrant yellow tones",
+    "prefix": "glennyay heh booze cervical ken php bearded",
+    "loss": 0.00017784888041205704
+  },
+  {
+    "idx": 65,
+    "source_prompt": "a portrait in Van Gogh's artistic style, expressive brushwork",
+    "optimized_prompt": "bannon majesty stic spatifelizhashko khali a portrait in Van Gogh's artistic style, expressive brushwork",
+    "prefix": "bannon majesty stic spatifelizhashko khali",
+    "loss": 0.00014836173795629293
+  },
+  {
+    "idx": 66,
+    "source_prompt": "mountain scene painted by Van Gogh, blue and white colors",
+    "optimized_prompt": "dimensions hackney does alistthern plex tified enberg mountain scene painted by Van Gogh, blue and white colors",
+    "prefix": "dimensions hackney does alistthern plex tified enberg",
+    "loss": 0.00033980997977778316
+  },
+  {
+    "idx": 67,
+    "source_prompt": "portrait of a woman in Van Gogh style",
+    "optimized_prompt": "southeastern yosemite bledevils doesnt offices dabfedora portrait of a woman in Van Gogh style",
+    "prefix": "southeastern yosemite bledevils doesnt offices dabfedora",
+    "loss": 0.00037412403617054224
+  },
+  {
+    "idx": 68,
+    "source_prompt": "city street scene in Van Gogh's style",
+    "optimized_prompt": "t brockcontrol mentality xxincredisumakati city street scene in Van Gogh's style",
+    "prefix": "t brockcontrol mentality xxincredisumakati",
+    "loss": 0.0001687894982751459
+  },
+  {
+    "idx": 69,
+    "source_prompt": "starry night in Van Gogh's style",
+    "optimized_prompt": "swelllance dream blasted fir concesari acies starry night in Van Gogh's style",
+    "prefix": "swelllance dream blasted fir concesari acies",
+    "loss": 0.000299353851005435
+  },
+  {
+    "idx": 70,
+    "source_prompt": "wheat field with crows, Van Gogh's characteristic brushstrokes",
+    "optimized_prompt": "experiences resorts graduating gum chung cholera eri ote wheat field with crows, Van Gogh's characteristic brushstrokes",
+    "prefix": "experiences resorts graduating gum chung cholera eri ote",
+    "loss": 0.00030921559664420784
+  },
+  {
+    "idx": 71,
+    "source_prompt": "a self-portrait in Van Gogh's later style, intense colors",
+    "optimized_prompt": "boybtr victoricrook said etta harvey dales a self-portrait in Van Gogh's later style, intense colors",
+    "prefix": "boybtr victoricrook said etta harvey dales",
+    "loss": 0.00012478706776164472
+  },
+  {
+    "idx": 72,
+    "source_prompt": "a café at night, Van Gogh style with warm yellows and deep blues",
+    "optimized_prompt": "academicrepost stoner takes grosvenhill rednationrising uuuu a café at night, Van Gogh style with warm yellows and deep blues",
+    "prefix": "academicrepost stoner takes grosvenhill rednationrising uuuu",
+    "loss": 0.000250632525421679
+  },
+  {
+    "idx": 73,
+    "source_prompt": "church in a small town, painted in Van Gogh's expressive manner",
+    "optimized_prompt": "gets bpshtheres big bonus sibling conqu church in a small town, painted in Van Gogh's expressive manner",
+    "prefix": "gets bpshtheres big bonus sibling conqu",
+    "loss": 0.0002348218986298889
+  },
+  {
+    "idx": 74,
+    "source_prompt": "garden with blooming flowers, Van Gogh's vibrant palette",
+    "optimized_prompt": "skater nishdocks kristenmastering paolofree there garden with blooming flowers, Van Gogh's vibrant palette",
+    "prefix": "skater nishdocks kristenmastering paolofree there",
+    "loss": 0.00035056969500146806
+  },
+  {
+    "idx": 75,
+    "source_prompt": "a road through a forest, Van Gogh style with dynamic brushwork",
+    "optimized_prompt": "sorry hugosuarez zmasala mmynaik sentimental a road through a forest, Van Gogh style with dynamic brushwork",
+    "prefix": "sorry hugosuarez zmasala mmynaik sentimental",
+    "loss": 0.0004660086124204099
+  },
+  {
+    "idx": 76,
+    "source_prompt": "boats on a lake at sunset, in Van Gogh's artistic style",
+    "optimized_prompt": "dod dooley wrwhose japs nirabsno boats on a lake at sunset, in Van Gogh's artistic style",
+    "prefix": "dod dooley wrwhose japs nirabsno",
+    "loss": 4.075003380421549e-05
+  },
+  {
+    "idx": 77,
+    "source_prompt": "a bedroom interior, painted like Van Gogh's 'The Bedroom'",
+    "optimized_prompt": "minorities soda yess rustyna buy lounging uri a bedroom interior, painted like Van Gogh's 'The Bedroom'",
+    "prefix": "minorities soda yess rustyna buy lounging uri",
+    "loss": 0.0003009486827068031
+  },
+  {
+    "idx": 78,
+    "source_prompt": "windmill in a Dutch landscape, Van Gogh style",
+    "optimized_prompt": "odyssey tsu eagle mitchstall damaged ortiz helicopter windmill in a Dutch landscape, Van Gogh style",
+    "prefix": "odyssey tsu eagle mitchstall damaged ortiz helicopter",
+    "loss": 6.335346552077681e-05
+  },
+  {
+    "idx": 79,
+    "source_prompt": "a bridge over a river, in Van Gogh's post-impressionist style",
+    "optimized_prompt": "carcinand sexism bairray directs pcc fireman a bridge over a river, in Van Gogh's post-impressionist style",
+    "prefix": "carcinand sexism bairray directs pcc fireman",
+    "loss": 0.00031141319777816534
+  },
+  {
+    "idx": 80,
+    "source_prompt": "night café with people, Van Gogh's bold color contrasts",
+    "optimized_prompt": "north shy leveled cafeteria schultz scrapbook certainly nook night café with people, Van Gogh's bold color contrasts",
+    "prefix": "north shy leveled cafeteria schultz scrapbook certainly nook",
+    "loss": 0.00024710787693038583
+  },
+  {
+    "idx": 81,
+    "source_prompt": "apple trees in blossom, Van Gogh's textured brushstrokes",
+    "optimized_prompt": "ak hoy wired defamation boxjeff percegives apple trees in blossom, Van Gogh's textured brushstrokes",
+    "prefix": "ak hoy wired defamation boxjeff percegives",
+    "loss": 0.00022670449106954038
+  },
+  {
+    "idx": 82,
+    "source_prompt": "a chair with a pipe, Van Gogh style still life",
+    "optimized_prompt": "tresunk ert ds straighleads warsaw jacks a chair with a pipe, Van Gogh style still life",
+    "prefix": "tresunk ert ds straighleads warsaw jacks",
+    "loss": 0.00032193539664149284
+  },
+  {
+    "idx": 83,
+    "source_prompt": "snow-covered fields under a starry sky, Van Gogh style",
+    "optimized_prompt": "trendsetter syfy walkaway slideshow bake wikipedia bigfoot hbd snow-covered fields under a starry sky, Van Gogh style",
+    "prefix": "trendsetter syfy walkaway slideshow bake wikipedia bigfoot hbd",
+    "loss": 0.00020792166469618678
+  },
+  {
+    "idx": 84,
+    "source_prompt": "portrait of a man with a hat, in Van Gogh's expressive style",
+    "optimized_prompt": "saberamherst laa lawrenceunicefdric gannon dence portrait of a man with a hat, in Van Gogh's expressive style",
+    "prefix": "saberamherst laa lawrenceunicefdric gannon dence",
+    "loss": 0.00040076649747788906
+  },
+  {
+    "idx": 85,
+    "source_prompt": "a railway bridge at sunset, Van Gogh's dynamic composition",
+    "optimized_prompt": "deserving strust flaws gym griezpad mentor walkway a railway bridge at sunset, Van Gogh's dynamic composition",
+    "prefix": "deserving strust flaws gym griezpad mentor walkway",
+    "loss": 0.0007483556400984526
+  },
+  {
+    "idx": 86,
+    "source_prompt": "olive trees with twisted trunks, painted by Van Gogh",
+    "optimized_prompt": "grads powerwski disturbing digo wilbur mack y olive trees with twisted trunks, painted by Van Gogh",
+    "prefix": "grads powerwski disturbing digo wilbur mack y",
+    "loss": 0.0007153831538744271
+  },
+  {
+    "idx": 87,
+    "source_prompt": "a vase with irises, Van Gogh style with thick impasto",
+    "optimized_prompt": "literally assassin montana limbs itors canceled newyork bradshaw a vase with irises, Van Gogh style with thick impasto",
+    "prefix": "literally assassin montana limbs itors canceled newyork bradshaw",
+    "loss": 0.00040336267556995153
+  },
+  {
+    "idx": 88,
+    "source_prompt": "a market square in a small town, Van Gogh's vibrant colors",
+    "optimized_prompt": "missile peter pherredding controlinstaptaverscandals a market square in a small town, Van Gogh's vibrant colors",
+    "prefix": "missile peter pherredding controlinstaptaverscandals",
+    "loss": 0.0006233776803128421
+  },
+  {
+    "idx": 89,
+    "source_prompt": "moonlit landscape with cypress trees, Van Gogh style",
+    "optimized_prompt": "displacdartmoor loch mouthrickdocufed sa moonlit landscape with cypress trees, Van Gogh style",
+    "prefix": "displacdartmoor loch mouthrickdocufed sa",
+    "loss": 0.000273472280241549
+  },
+  {
+    "idx": 90,
+    "source_prompt": "a peasant woman working in a field, Van Gogh's earthy tones",
+    "optimized_prompt": "outages loryaprestrictions mancrushmonday tehelicopter sepsis a peasant woman working in a field, Van Gogh's earthy tones",
+    "prefix": "outages loryaprestrictions mancrushmonday tehelicopter sepsis",
+    "loss": 0.0004515519831329584
+  },
+  {
+    "idx": 91,
+    "source_prompt": "a lighthouse by the sea, in Van Gogh's dramatic style",
+    "optimized_prompt": "pel from bowl bringing mcisavflyers when a lighthouse by the sea, in Van Gogh's dramatic style",
+    "prefix": "pel from bowl bringing mcisavflyers when",
+    "loss": 0.00014877045759931207
+  },
+  {
+    "idx": 92,
+    "source_prompt": "sunset over a wheat field, Van Gogh's swirling sky",
+    "optimized_prompt": "lps appreciates animalrights recovery shieldanielpadilla mentoring cpa sunset over a wheat field, Van Gogh's swirling sky",
+    "prefix": "lps appreciates animalrights recovery shieldanielpadilla mentoring cpa",
+    "loss": 0.0005116719985380769
+  },
+  {
+    "idx": 93,
+    "source_prompt": "a piano in a room, Van Gogh style interior",
+    "optimized_prompt": "geoffnutrition cyborg tracshadow bran missiles rock a piano in a room, Van Gogh style interior",
+    "prefix": "geoffnutrition cyborg tracshadow bran missiles rock",
+    "loss": 0.00018024593009613454
+  },
+  {
+    "idx": 94,
+    "source_prompt": "a flock of sheep in a meadow, Van Gogh's pastoral scene",
+    "optimized_prompt": "lopez infamous ovich grassy appropriout dissertation implemented a flock of sheep in a meadow, Van Gogh's pastoral scene",
+    "prefix": "lopez infamous ovich grassy appropriout dissertation implemented",
+    "loss": 0.00012008503108518198
+  },
+  {
+    "idx": 95,
+    "source_prompt": "a street vendor with a cart, Van Gogh's city scene",
+    "optimized_prompt": "behold donnelly eicqueerwallabies yam bedrodrama a street vendor with a cart, Van Gogh's city scene",
+    "prefix": "behold donnelly eicqueerwallabies yam bedrodrama",
+    "loss": 0.0006887791678309441
+  },
+  {
+    "idx": 96,
+    "source_prompt": "mountains with a rainbow, Van Gogh's bold color palette",
+    "optimized_prompt": "controversy cane stree nhl kerskingote bhatt mountains with a rainbow, Van Gogh's bold color palette",
+    "prefix": "controversy cane stree nhl kerskingote bhatt",
+    "loss": 0.0003093781415373087
+  },
+  {
+    "idx": 97,
+    "source_prompt": "a basket of fruits, Van Gogh style still life",
+    "optimized_prompt": "quail raundown legos actress yoneidmubarak rum a basket of fruits, Van Gogh style still life",
+    "prefix": "quail raundown legos actress yoneidmubarak rum",
+    "loss": 0.0002226413635071367
+  },
+  {
+    "idx": 98,
+    "source_prompt": "The swirling brushstrokes and vibrant colors characterize this painting, unmistakably in Van Gogh style.",
+    "optimized_prompt": "cpt lorde keerthyofficial live fidel indicates directing house The swirling brushstrokes and vibrant colors characterize this painting, unmistakably in Van Gogh style.",
+    "prefix": "cpt lorde keerthyofficial live fidel indicates directing house",
+    "loss": 0.0006580256158486009
+  },
+  {
+    "idx": 99,
+    "source_prompt": "In Van Gogh style, the artist captured the essence of the night sky with bold, expressive strokes.",
+    "optimized_prompt": "godzilla thenewchi rattleeral gallamorecamlogans In Van Gogh style, the artist captured the essence of the night sky with bold, expressive strokes.",
+    "prefix": "godzilla thenewchi rattleeral gallamorecamlogans",
+    "loss": 0.0004792377003468573
+  }
+]
