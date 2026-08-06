@@ -11,6 +11,7 @@ the newly added robustness experiments.
 
 The supplementary materials are organized in:
 
+```text
 adversary_results_for_minor_revision/
 │
 ├── training_code/
@@ -37,7 +38,7 @@ adversary_results_for_minor_revision/
 ├── weapon_optimized_adversarial_prompts_report.txt
 └── vango_optimized_adversarial_prompts_report.txt
     └── Optimization logs and attack-related information.
-
+```
 
 ### Correspondence to the Revised Manuscript
 
