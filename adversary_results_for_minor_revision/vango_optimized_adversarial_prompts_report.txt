@@ -1,8 +1,4 @@
-# concept: vango
-# model_path: /data/GONG_Q/stable-diffusion-v1-4
-# num_prompts: 100
-# k: 5
-# iterations: 35
+
 
 000	watringeded aterorg A Wheatfield, with Cypresses by Vincent van Gogh
 # adv_tokens_000: watringeded aterorg
