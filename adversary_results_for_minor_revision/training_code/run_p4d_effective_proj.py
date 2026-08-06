@@ -14,8 +14,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
-sys.path.append("/data/GONG_Q/Diffusion-MU-Attack-main/src")
-sys.path.append("/data/GONG_Q/Diffusion-MU-Attack-main/src/execs")
+sys.path.append("")
+sys.path.append("")
 from tasks.utils.text_encoder import CustomTextEncoder
 from optimize_three_concept_prompts import load_seed_prompts
 
@@ -411,9 +411,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--concept", choices=["nudity", "weapon", "vango"], default="nudity")
     parser.add_argument("--source-prompts", default=None)
-    parser.add_argument("--model-path", default="/data/GONG_Q/stable-diffusion-v1-4")
-    parser.add_argument("--output", default="/data/GONG_Q/p4d_effective_proj_prompt.txt")
-    parser.add_argument("--report", default="/data/GONG_Q/p4d_effective_proj_prompt_report.json")
+    parser.add_argument("--model-path", default="")
+    parser.add_argument("--output", default="")
+    parser.add_argument("--report", default="")
     parser.add_argument("--device", default="cuda:0" if torch.cuda.is_available() else "cpu")
     parser.add_argument("--limit", type=int, default=100)
     parser.add_argument("--prompt-len", type=int, default=8)
