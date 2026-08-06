@@ -142,7 +142,7 @@ CONCEPT_CONFIGS = {
 
 def load_prompts(path, limit, concept):
     if path is None:
-        prompts = load_seed_prompts(concept, "/data/GONG_Q")
+        prompts = load_seed_prompts(concept, "")
         return prompts[:limit]
     if path.endswith(".txt"):
         with open(path, "r", encoding="utf-8") as f:
