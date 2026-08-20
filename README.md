@@ -51,8 +51,9 @@ in the minor revision:
 
 | Revised evaluation | Provided materials |
 | --- | --- |
-| P4D adversarial prompt evaluation | `p4d_*_prompt.txt` |
+| P4D model-specific adversarial prompt evaluation | `p4d_*_prompt.txt` |
 | P4D optimization records | `p4d_*_prompt_report.json` |
+| SneakyPrompt model-specific (one-time) evaluation | `sneakyprompt_projection_erasure_200.txt`, `sneakyprompt_projection_erasure_200.csv` |
 | DSS-aware adaptive attacks | `*_optimized_adversarial_prompts.txt` |
 | Adaptive attack optimization information | `*_optimized_adversarial_prompts_report.txt` |
 | Qualitative adversarial generation results | `visualization_results/` |
