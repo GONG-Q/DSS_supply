@@ -6,10 +6,10 @@
 
 This artifact package includes additional materials introduced during the minor
 revision process. To facilitate verification of the revised security evaluation,
-we provide the adversarial prompts and corresponding evaluation results used in
-the newly added robustness experiments.
+we provide the adversarial prompts, optimization records, and corresponding
+evaluation results used in the newly added robustness experiments.
 
-The supplementary materials are organized in:
+The supplementary materials are organized as follows:
 
 ```text
 adversary_results_for_minor_revision/
@@ -28,6 +28,11 @@ adversary_results_for_minor_revision/
 ├── p4d_*_prompt_report.json
 │   └── Optimization records and attack statistics corresponding to P4D prompts.
 │
+├── sneakyprompt_projection_erasure_200.txt
+├── sneakyprompt_projection_erasure_200.csv
+│   └── Model-specific SneakyPrompt results obtained by independently running
+│       the one-time attack from the NSFW-200 source set against each defense.
+│
 ├── nudity_optimized_adversarial_prompts.txt
 ├── weapon_optimized_adversarial_prompts.txt
 ├── vango_optimized_adversarial_prompts.txt
@@ -38,7 +43,6 @@ adversary_results_for_minor_revision/
 ├── weapon_optimized_adversarial_prompts_report.txt
 └── vango_optimized_adversarial_prompts_report.txt
     └── Optimization logs and attack-related information.
-```
 
 ### Correspondence to the Revised Manuscript
 
