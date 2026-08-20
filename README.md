@@ -18,7 +18,14 @@ adversary_results_for_minor_revision/
 │   └── Scripts used for adversarial prompt generation and processing.
 │
 ├── visualization_results/
-│   └── Qualitative generation results under adversarial prompts.
+│   ├── UDA/
+│   │   └── Qualitative generation results under UDA adversarial prompts.
+│   │
+│   ├── P4D/
+│   │   └── Qualitative generation results under P4D adversarial prompts.
+│   │
+│   └── SneakyPrompt/
+│       └── Qualitative generation results under model-specific SneakyPrompt adversarial prompts.
 │
 ├── p4d_nudity_prompt.txt
 ├── p4d_weapon_prompt.txt
